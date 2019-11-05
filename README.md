@@ -1,5 +1,4 @@
 # Sentiment
-Robots for Sentiment Analysis
 Sentiment Analysis returns a number between -1.00 and 1.00
 -1  - very negative
  0  - neutral, unknown sentiment or unknown language.
