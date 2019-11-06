@@ -1,8 +1,8 @@
 # Sentiment 1.0
-Sentiment Analysis returns a number between -1.00 and 1.00
--1  - very negative
- 0  - neutral, unknown sentiment or unknown language.
-+1  - very positive.
+Sentiment Analysis returns a number between -1.00 and 1.00  
+-1  - very negative  
+ 0  - neutral, unknown sentiment or unknown language.  
++1  - very positive.  
 Typical sentiment scores are between -0.3 and +0.3
 
 ## Improved Sentiment Project for Document Transformation
