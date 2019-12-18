@@ -1,3 +1,6 @@
+# Requirements
+- Kofax RPA 10.7
+- Kofax RPA Cognitive Document Automation 10.7 (Kofax Transformation)
 # Sentiment 1.0
 Sentiment Analysis returns a number between -1.00 and 1.00  
 -1  - very negative  
